@@ -7,8 +7,8 @@
 
 <body>
 
-<?php echo '<p>Hello AWS EB</p>'; ?> 
+<?php echo '<p>Hello Test</p>'; ?> 
 
-<a href="test.php">Test Link</a>
+<a href="index.php">Home</a>
 </body>
 </html>
